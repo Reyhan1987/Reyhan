@@ -1,6 +1,6 @@
 # Python Proje 1 Faydalı Uygulamalar 
-## Modül ve Alt modüller
-### https://www.youtube.com/watch?v=7CYH-PGR3mA
+## https://www.youtube.com/watch?v=7CYH-PGR3mA
+
 
 Faydalı Uygulamalar 10 adet modülden oluşmaktadır.
 
